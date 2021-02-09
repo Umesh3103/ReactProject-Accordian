@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactProject-Accordian/static/css/main.120e6afb.chunk.css",
+    "main.js": "/ReactProject-Accordian/static/js/main.13fa719f.chunk.js",
+    "main.js.map": "/ReactProject-Accordian/static/js/main.13fa719f.chunk.js.map",
+    "runtime-main.js": "/ReactProject-Accordian/static/js/runtime-main.29c1ede4.js",
+    "runtime-main.js.map": "/ReactProject-Accordian/static/js/runtime-main.29c1ede4.js.map",
+    "static/js/2.04a5006a.chunk.js": "/ReactProject-Accordian/static/js/2.04a5006a.chunk.js",
+    "static/js/2.04a5006a.chunk.js.map": "/ReactProject-Accordian/static/js/2.04a5006a.chunk.js.map",
+    "static/js/3.c884c00f.chunk.js": "/ReactProject-Accordian/static/js/3.c884c00f.chunk.js",
+    "static/js/3.c884c00f.chunk.js.map": "/ReactProject-Accordian/static/js/3.c884c00f.chunk.js.map",
+    "index.html": "/ReactProject-Accordian/index.html",
+    "static/css/main.120e6afb.chunk.css.map": "/ReactProject-Accordian/static/css/main.120e6afb.chunk.css.map",
+    "static/js/2.04a5006a.chunk.js.LICENSE.txt": "/ReactProject-Accordian/static/js/2.04a5006a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29c1ede4.js",
+    "static/js/2.04a5006a.chunk.js",
+    "static/css/main.120e6afb.chunk.css",
+    "static/js/main.13fa719f.chunk.js"
+  ]
+}
